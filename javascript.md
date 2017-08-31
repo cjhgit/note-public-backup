@@ -1,3 +1,3 @@
 ## 目录
 
-* [本地存储（LocalStorage）](http://www.chenjianhang.com/2054.html)
+* [本地存储（LocalStorage）](javascript-localstorage.md)
