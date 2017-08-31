@@ -1,7 +1,9 @@
 # 目录
 
 * [简介](README.md)
-* [JavaScript 学习笔记](c1.md)
+* [JavaScript 学习笔记](javascript.md)
     * [第1节](c1s1.md)
     * [第2节](c1s2.md)
 * [第2章](c2.md)
+    * []()
+    * []()
