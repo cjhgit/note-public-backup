@@ -225,15 +225,3 @@ for (let i = 0; i < 1024 * 1024; i++) {
 ``` 
 
 我试了两个浏览器，360浏览器崩溃了，谷歌浏览器显示 7M 多。
-
-URL：localstorage
-关键词：LocalStorage,HTML5
-
-
-
-What happens when localStorage is full?
-https://stackoverflow.com/questions/13567509/what-happens-when-localstorage-is-full
-
-
-
-比如利用 Cookie 实现自动登录，本地存储就无法实现完美。
