@@ -33,7 +33,7 @@ Flex 布局是 Flexible Box 的缩写，也叫做弹性布局。我们可以通�
 
 在学习 Flex 的用法之前，我们先来学习 Flex 的基本概念。
 
-![](http://cdn.chenjianhang.com/css-demo/css-flex-0.png)
+![](img/css-flex-0.png)
 
 * 设置了 `display: flex` 的元素称为 Flex 容器（flex container）、其子元素称为 Flex 项（flex item）。
 * 默认水平方向为主轴（main axis）、主轴开始位置称为 main start，主轴结束位置称为 main end。
@@ -56,19 +56,19 @@ Flex 容器支持以下六个属性：
 
 `row`（默认值）：水平向右为主轴方向。
 
-![](http://cdn.chenjianhang.com/css-demo/flex-direction-row.png)
+![](img/flex-direction-row.png)
 
 `row-reverse`：水平向左为主轴方向。
 
-![](http://cdn.chenjianhang.com/css-demo/css-flex-row-reverse.png)
+![](img/css-flex-row-reverse.png)
 
 `column`：垂直向下为主轴方向。
 
-![](http://cdn.chenjianhang.com/css-demo/css-flex-column.png)
+![](img/css-flex-column.png)
 
 `colunm-reverse`：垂直向上为主轴方向。
 
-![](http://cdn.chenjianhang.com/css-demo/css-flex-column-reverse.png)
+![](img/css-flex-column-reverse.png)
 
 主轴和交叉轴是相互垂直的，也就是说，如果设置了主轴的方向为垂直方向，那么交叉轴的方向就是水平方向。
 
@@ -78,15 +78,15 @@ Flex 容器支持以下六个属性：
 
 `nowrap`（默认值）：不换行。
 
-![](http://cdn.chenjianhang.com/css-demo/flex-wrap-nowrap.png)
+![](img/flex-wrap-nowrap.png)
 
 `wrap`：换行。
 
-![](http://cdn.chenjianhang.com/css-demo/flex-wrap-wrap.png)
+![](img/flex-wrap-wrap.png)
 
 `wrap-reverse`：换行，先排最后一行。
 
-![](http://cdn.chenjianhang.com/css-demo/flex-wrap_wrap-reverse.png)
+![](img/flex-wrap_wrap-reverse.png)
 
 ## flex-flow
 
@@ -102,23 +102,23 @@ flex-flow: flex-direction flex-wrap;
 
 `flex-start`（默认值）：从 main start 开始排列。
 
-![](http://cdn.chenjianhang.com/css-demo/justify-content-flex-start.png)
+![](img/justify-content-flex-start.png)
 
 `flex-end`：从 main end 开始排列。
 
-![](http://cdn.chenjianhang.com/css-demo/justify-content-flex-end.png)
+![](img/justify-content-flex-end.png)
 
 `center`：在主轴上居中。
 
-![](http://cdn.chenjianhang.com/css-demo/justify-content-center.png)
+![](img/justify-content-center.png)
 
 `space-between`：两端对齐。Flex 项之间的距离相等。
 
-![](http://cdn.chenjianhang.com/css-demo/justify-content-space-between.png)
+![](img/justify-content-space-between.png)
 
 `space-around`：每一个 Flex 项左右的距离相等。两项之间的距离是旁边的距离的两倍。
 
-![](http://cdn.chenjianhang.com/css-demo/justify-content-space-around.png)
+![](img/justify-content-space-around.png)
 
 ## align-items
 
@@ -126,23 +126,23 @@ flex-flow: flex-direction flex-wrap;
 
 `flex-start`：交叉轴的起始位置（cross start）对齐。
 
-![](http://cdn.chenjianhang.com/css-demo/align-items-flex-start.png)
+![](img/align-items-flex-start.png)
 
 `flex-end`：交叉轴的结束位置（cross end）对齐。
 
-![](http://cdn.chenjianhang.com/css-demo/align-items-flex-end.png)
+![](img/align-items-flex-end.png)
 
 `center`：交叉轴的中点对齐。
 
-![](http://cdn.chenjianhang.com/css-demo/align-items-center.png)
+![](img/align-items-center.png)
 
 `baseline`: Flex 项的第一行文字的基线对齐。
 
-![](http://cdn.chenjianhang.com/css-demo/align-items-baseline.png)
+![](img/align-items-baseline.png)
 
 `stretch`（默认值）：Flex 项目将占满整个 Flex 容器的高度。但是如果 Flex 项设置了高度，该属性不起作用。
 
-![](http://cdn.chenjianhang.com/css-demo/align-items-stretch.png)
+![](img/align-items-stretch.png)
 
 ## align-content
 
@@ -150,29 +150,29 @@ flex-flow: flex-direction flex-wrap;
 
 `stretch`（默认值）：多行占满整个轴线。
 
-![](http://cdn.chenjianhang.com/css-demo/align-content-stretch.png)
+![](img/align-content-stretch.png)
 
 注意：如果 Flex 设置了高度，这个属性不起作用。
 
 `flex-start`：与交叉轴的起始位置对齐。
 
-![](http://cdn.chenjianhang.com/css-demo/align-content-flex-start.png)
+![](img/align-content-flex-start.png)
 
 `flex-end`：与交叉轴的结束位置对齐。
 
-![](http://cdn.chenjianhang.com/css-demo/align-content-flex-end.png)
+![](img/align-content-flex-end.png)
 
 `center`：与交叉轴的中点位置对齐。
 
-![](http://cdn.chenjianhang.com/css-demo/align-content-center.png)
+![](img/align-content-center.png)
 
 `space-between`：在交叉轴上两端对齐，每行之间的距离相等。
 
-![](http://cdn.chenjianhang.com/css-demo/align-content-space-between.png)
+![](img/align-content-space-between.png)
 
 `space-around`：每行的上下距离相等。两行之间的间距是最上面和最下面的间距的两倍。
 
-![](http://cdn.chenjianhang.com/css-demo/align-content-space-around.png)
+![](img/align-content-space-around.png)
 
 ## Flex 项
 
@@ -201,7 +201,7 @@ Flex 项支持以下属性：
 }
 ```
 
-![](http://cdn.chenjianhang.com/css-demo/order.png)
+![](img/order.png)
 
 ### flex-basis
 
@@ -243,7 +243,7 @@ Flex 容器的 `align-items` 属性会作用于所有 Flex 项，如果你希望
 
 Flex 布局会是未来布局的首选，尽管在兼容性方面还是有点不足。你可以根据下面的脑图，回顾一下这篇文章讲解过的知识。
 
-![](http://cdn.chenjianhang.com/css-demo/flex-mind-map.png)
+![](img/flex-mind-map.png)
 
 下一篇文章，会讲解如何用 Flex 实现常见的布局。
 
