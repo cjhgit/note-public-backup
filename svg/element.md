@@ -34,7 +34,7 @@ SVG 支持以下几个基本元素：
 
 效果：
 
-![](http://www.chenjianhang.com/wp-content/uploads/2017/08/svg-element-0.png)
+![](img/svg-element-0.png)
 
 属性 | 默认值 | 说明
 ---|---|---
@@ -51,7 +51,7 @@ SVG 支持以下几个基本元素：
   <circle cx="100" cy="50" r="40" fill="#db4437"/>
 </svg>
 ```
-![](http://www.chenjianhang.com/wp-content/uploads/2017/08/svg-element-1.png)
+![](img/svg-element-1.png)
 
 其中，属性 `cx` 表示圆心的横坐标，`cy` 表示圆心的纵坐标，`r` 表示圆的半径（radius）。
 
@@ -64,7 +64,7 @@ SVG 支持以下几个基本元素：
 </svg>
 ```
 
-![](http://www.chenjianhang.com/wp-content/uploads/2017/08/scg-element-2.png)
+![](img/scg-element-2.png)
 
 其中，属性 `cx` 表示椭圆中心的横坐标，`cy` 表示椭圆中心的纵坐标，`rx` 表示椭圆的水平半径， `cy` 表示椭圆的垂直半径。
 
@@ -79,7 +79,7 @@ SVG 支持以下几个基本元素：
 
 效果图：
 
-![](http://www.chenjianhang.com/wp-content/uploads/2017/08/svg-element-3.png)
+![](img/svg-element-3.png)
 
 这是一条起始点位于 (x1, y2)，终点位于 (x2, y2) 的直线。
 
@@ -92,7 +92,7 @@ SVG 支持以下几个基本元素：
 </svg>
 ```
 
-![](http://www.chenjianhang.com/wp-content/uploads/2017/08/svg-element-4.png)
+![](img/svg-element-4.png)
 
 其中，属性 `points` 表示多边形每一个顶点的坐标。
 
@@ -105,7 +105,7 @@ SVG 支持以下几个基本元素：
 </svg>
 ```
 
-![](http://www.chenjianhang.com/wp-content/uploads/2017/08/svg-element-5.png)
+![](img/svg-element-5.png)
 
 其中，属性 `points` 表示折线每一个端点的坐标。
 
@@ -118,7 +118,7 @@ SVG 支持以下几个基本元素：
 </svg>
 ```
 
-![](http://www.chenjianhang.com/wp-content/uploads/2017/08/svg-element-6.png)
+![](img/svg-element-6.png)
 
 ## 路径 path
 
@@ -146,7 +146,7 @@ SVG 支持以下几个基本元素：
 </svg>
 ```
 
-![](http://www.chenjianhang.com/wp-content/uploads/2017/08/svg-element-7.png)
+![](img/svg-element-7.png)
 
 
 

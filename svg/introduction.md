@@ -10,7 +10,7 @@
 
 举个栗子：
 
-![](http://www.chenjianhang.com/wp-content/uploads/2017/08/json-0.png)
+![](img/json-0.png)
 
 对于上面的图形，矢量图一般是这样描述图像的：以 (100, 100) 为圆心，绘制半径为 50 的圆，填充蓝色。而位图是这样描述图像的：第 1 个像素点是白色，第 2 个像素点是白色，第 3 个像素点是白色，……，第 1234 个像素点是蓝色，……。
 
@@ -20,11 +20,11 @@
 
 对于上面的图片，矢量图放大 24 倍后，还可以看到清晰的图形边缘：
 
-![](http://www.chenjianhang.com/wp-content/uploads/2017/08/json-1.png)
+![](img/json-1.png)
 
 而 png 图片才放大几倍，就已经出现锯齿边缘了：
 
-![](http://www.chenjianhang.com/wp-content/uploads/2017/08/json-2.png)
+![](img/json-2.png)
 
 常见的图像格式，如 png、jpg 或者 gif 等等，基本都是位图。矢量图也有很多种格式，svg 就是其中一种。
 
