@@ -6,6 +6,7 @@ Set 也叫做集合，是常用的数据结构之一，表示不包含重复项�
 
 ## 正文
 
+我们可以通过 `new Set()` 新建一个 Set 对象，也可以在构造函数中使用数组
 ES6 出来之前，我们通常用对象来模拟 Map。
 
 `javascript-demo/map-object.html`：
