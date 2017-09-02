@@ -5,4 +5,4 @@
     * [Set](javascript/set.md)
     * [数组](javascript/array.md)
 * 进阶
-    * [本地存储（LocalStorage）](javascript/localstorage.md)
+    * [LocalStorage](javascript/localstorage.md)
