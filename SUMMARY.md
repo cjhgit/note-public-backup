@@ -4,5 +4,6 @@
 * [JavaScript 学习笔记](javascript.md)
     * [本地存储（LocalStorage）](javascript/localstorage.md)
     * [Map](javascript/map.md)
+    * [Set](javascript/set.md)
 * [CSS 学习笔记](c2.md)
     * [Flex 布局](css/css-flex.md)
