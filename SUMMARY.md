@@ -6,5 +6,5 @@
 * [JavaScript 学习笔记](javascript.md)
 * [JSON 学习笔记](json.md)
 * [SVG 学习笔记](svg.md)
-* [Markdown 学习笔记](markdown.md)
+* [Markdown 学习笔记](markdown/markdown.md)
 
