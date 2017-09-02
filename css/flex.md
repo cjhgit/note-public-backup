@@ -250,10 +250,3 @@ Flex 布局会是未来布局的首选，尽管在兼容性方面还是有点不
 ## 参考
 
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-
-
-
-
-
-
-交叉轴的方向

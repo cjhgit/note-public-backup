@@ -12,5 +12,7 @@ CSS 也是 W3C 标准之一。如果有兴趣，我们可以到[W3C](https://www
 
 ## 目录
 
-* [简介](css/introduction.md)
-* [Flex 布局](css/flex.md)
+* [简介](introduction.md)
+* [Hello world](hello-world.md)
+* [Flex 布局](flex.md)
+* [Grid 布局](grid.md)
