@@ -186,7 +186,7 @@ hello
 
 ## 总结
 
-![](http://cdn.chenjianhang.com/javascript-demo/localstorage-mindmap.png)
+![](img/localstorage-mindmap.png)
 
 ## 无聊的补充
 
