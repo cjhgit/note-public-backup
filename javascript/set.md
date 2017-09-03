@@ -1,4 +1,4 @@
-# JavaScript 学习笔记 - Set
+# Set
 
 ## 前言
 

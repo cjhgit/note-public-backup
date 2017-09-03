@@ -1,3 +1,3 @@
-# JavaScript 学习笔记 - IndexedDB.md
+# IndexedDB
 
 ## 前言

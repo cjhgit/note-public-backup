@@ -1,4 +1,4 @@
-# JavaScript 学习笔记 - 递归
+# 递归
 
 递归（Recursion）是一种思想。
 

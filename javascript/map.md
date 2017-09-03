@@ -1,4 +1,4 @@
-# JavaScript 学习笔记 - Map
+# Map
 
 ## 前言
 

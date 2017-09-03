@@ -1,4 +1,4 @@
-# JavaScript 学习笔记 - 本地存储（LocalStorage）
+# 本地存储
 
 ## 前言
 

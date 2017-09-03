@@ -1,4 +1,4 @@
-# JavaScript 学习笔记 - 闭包（Closure）
+# 闭包
 
 ## 前言
 

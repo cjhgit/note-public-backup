@@ -1,4 +1,4 @@
-# JavaScript 学习笔记 - Promise
+# Promise
 
 ## 回调函数的弊端
 

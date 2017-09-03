@@ -1,4 +1,4 @@
-# JavaScript 学习笔记 - 数组
+# 数组
 
 ## 什么是数组
 
@@ -23,4 +23,60 @@ let array = ['字符串', 1024, {}, [], 1.01, new Date()]
 let arr = ['张三', '李四', '王五']
 console.log(arr.length) // 3
 console.log(arr[0]) // 张三
+```
+
+// TODO 
+
+### map 方法
+
+```javascript
+let arr = [1, 4, 9, 16, 25]
+console.log(arr.map(Math.sqrt)) // [1, 2, 3, 4, 5]
+```
+
+### filter
+
+```javascript
+let arr = [1, 4, 9, 16, 25]
+function filter(num) {
+    return num < 10
+}
+console.log(arr.filter(filter)) // [1, 4, 9]
+```
+
+### reduce
+
+```javascript
+let arr = [1, 2, 3, 4]
+function sum(total, value) {
+    return total + value
+}
+console.log(arr.reduce(sum)) // 10
+```
+
+```javascript
+// 计算 1^2 + 2^2 + 3^2
+console.log([1, 2, 3].reduce((total, value) => total + value * value)) // 14
+```
+
+### some
+
+判断数组中是否含有大于 5 的数
+
+```javascript
+let arr = [1, 4, 9, 16, 25]
+function check(value) {
+    return value > 5
+}
+console.log(arr.some(check)) // true
+```
+
+### includes
+
+`Array.prototype.includes` 是 ES7 新增的一个数组方法，用来判断数组是否包含某个值。
+
+```javascript
+let arr = [1, 4, 9, 16, 25]
+console.log(arr.includes(4)) // true
+console.log(arr.includes(3)) // false
 ```

@@ -1,4 +1,4 @@
-# JavaScript 学习笔记 - Web Workers
+# Web Workers
 
 ## 前言
 
