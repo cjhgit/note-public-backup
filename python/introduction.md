@@ -28,6 +28,8 @@ Python 3.6.2
 
 进入官方下载页面 [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/)，点击 Community 下面的【Download】按钮，下载免费的社区版。
 
+百度云下载：https://pan.baidu.com/s/1gfKkInL。
+
 不喜欢折腾的也可以用文本编辑器什么的。
 
 ## Hello World
