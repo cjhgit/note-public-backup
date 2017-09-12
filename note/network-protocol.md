@@ -64,3 +64,43 @@ TCP面向连接；UDP是无连接的。（TCP需要三次握手，而UDP不需�
 wireshark
 
 下载地址：https://www.wireshark.org/download.html
+
+
+
+
+## DNS
+
+全球一共只有13台根服务器（名字分别为“A”至“M”），1 个为主根服务器（A），在美国，其余 12 个均为辅根服务器。
+
+A 记录
+
+MX 记录
+
+nslookup -qt=类型 目标域名
+
+雪人计划
+
+
+
+CDN
+
+## GFW
+
+GFW（Great Firewall，中国防火长城）
+
+GFW 的主要技术：国家入口网关的 IP 封锁、主干路由器的关键字过滤阻断、域名劫持和 HTTPS 证书过滤等。
+
+根域名服务器（root name server，简称根服务器）
+
+VPN（Virtual Private Network，虚拟专用网络）
+VPS（Virtual Private Server，虚拟专用服务器）
+
+> 为了增加反应速度，网页访问的申请都是由一个数据包所完成的，而一个数据包的长度为256B字节，这就决定了一个数据包只能有13个块，这就从根本上限制了根域名服务器的数量，也就是说根域名服务器只能有13个。
+
+## Spam
+
+Spam（垃圾邮件） 攻击：
+
+* 很难区分垃圾邮件和正常邮件。
+
+反垃圾(Anti-Spam)
