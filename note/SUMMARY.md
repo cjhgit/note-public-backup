@@ -17,6 +17,8 @@
     * [mysql](mysql.md)
 * [html](html.md)
 * [http](http.md)
+* [java](java.md)
+    
 * [javascript.md](javascript.md)
     * [arrow-functions](javascript/arrow-functions.md)
     * [async](javascript/async.md)

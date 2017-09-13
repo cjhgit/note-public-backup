@@ -92,7 +92,7 @@ nslookup -qt=类型 目标域名
 
 
 
-CDN
+CDN（Content Delivery Network，内容分发网络）
 
 ## GFW
 
