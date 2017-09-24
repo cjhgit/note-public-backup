@@ -1,4 +1,4 @@
-# Canvas 学习笔记
+# Canvas
 
 * [简介](introduction.md)
 

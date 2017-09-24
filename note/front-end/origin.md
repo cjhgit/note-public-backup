@@ -1,4 +1,4 @@
-# 前端学习笔记 - 跨域
+# 跨域
 
 ## 什么是同源
 
@@ -64,3 +64,23 @@ JSON-P（JSON with padding）也是常用的跨域解决方案。JSON-P 本质�
 ### 服务器中转
 
 没什么好说的，就是服务器请求跨域资源，间接把数据传给前端。
+
+### postmessage 跨域
+
+
+
+
+
+## tmp
+
+CORS 可以带上cookie的， 配置withCredentials即可
+
+> CORS 跨域似乎需要 IE10+ 才支持的
+最近刚好接手一个跨域的功能，在 IE9 下测试失败，IE10 就可行
+
+对于浏览器来说，除了DOM、Cookie、XMLHttpRequest 会受到同源策略的限制外，浏览器加载的一些第三方插件也有各自的同源策略。最常见的一些插件如 Flash、Java Applet、Silverlight、Google Gears等都有自己的控制策略。
+
+ie8+ IE里可以使用XDomainRequest这个来实现CORS
+
+header('Access-Control-Allow-Origin: 好像能只能指定单个域名
+

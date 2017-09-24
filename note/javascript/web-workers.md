@@ -205,3 +205,30 @@ Uncaught ReferenceError: Window is not defined
 
 ![](http://cdn.chenjianhang.com/javascript-demo/web-worker/web-workers-mindmap.png)
 
+
+
+
+
+# tmp
+
+
+
+
+
+
+DedicatedWorkerGlobalScope 对象有几个常用的属性：
+
+* `close`：结束线程，功能和 `terminate` 一致，可以在线程内部结束自身线程。
+
+
+## 工作线程的分类
+
+工作线程分成很多种类。上面讲到的都是专用线程，除了专用线程外，还要好几种。
+
+* 专用线程（Dedicated Workers）：顾名思义，专用线程就是专门为一个页面服务的线程，如果页面关闭了，线程也就结束了。
+* 共享线程（Shared Workers）：为多个页面服务的线程，后面会讲。
+* 服务线程（Service Workers）：这个不懂。
+* 音频线程（Audio Workers）：这个也不懂。
+* 谷歌线程（Chrome Workers）：仅在浏览器插件中可用。
+
+## 共享线程

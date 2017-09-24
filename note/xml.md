@@ -1,4 +1,4 @@
-# XML 学习笔记
+# XML
 
 XML （Extensible Markup Language）指可扩展标记语言。
 

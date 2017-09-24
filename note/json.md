@@ -4,6 +4,11 @@
 
 JSON（JavaScript Object Notation）是一种轻量级的数据交换格式，易于阅读和编写，同时也易于机器解析和生成。它基于 ECMAScript 的一个子集。 
 
+它也是 ECMA 标准之一：[ECMA-404](http://www.ecma-international.org/publications/standards/Ecma-404.htm)。
+
+
+> 2013年，ECMA正式推出JSON的国际标准，这意味着JSON格式已经变得与XML格式一样重要和正式了。
+
 ## 语法规则
 
 * 数据在键值对中。

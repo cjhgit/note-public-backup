@@ -111,3 +111,51 @@ var promise = new Promise(function(resolve, reject) {
 
 * [Promise - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [Promises/A+](https://promisesaplus.com/)
+
+
+## tmp
+
+
+
+```
+function ajax() {
+    var promise = new Promise(function(resolve, reject) {
+        setTimeout(function() {
+            resolve()
+        }, 1000)
+        console.log('ajax 完成')
+    })
+    return promise
+}
+
+function ajax2() {
+    var promise = new Promise(function(resolve, reject) {
+        setTimeout(function() {
+            resolve()
+        }, 1000)
+        console.log('ajax2 完成')
+    })
+    return promise
+}
+
+function ajax3() {
+    var promise = new Promise(function(resolve, reject) {
+        setTimeout(function() {
+            resolve()
+        }, 1000)
+        console.log('ajax3 完成')
+    })
+    return promise
+}
+
+ajax()
+    .then(function(){
+        return ajax2()
+    })
+    .then(function(){
+        return ajax3()
+    })
+    .then(function(){
+        console.log('全部完成')
+    })
+```

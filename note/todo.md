@@ -1,12 +1,12 @@
 # TODO
 
+* Apache 取消自启动
 * 持续集成、敏捷开发、软件工程
 * 语法糖（Syntactic sugar）
 * DSL
 * Python range
 * 刻意练习
 * 图灵完备
-* Kotlin
 * Source map
 * BNF 范示
 * 字符串
@@ -24,9 +24,13 @@
 * jekyll
 * 区块链
 * 比特币
+* 安装谷歌浏览器
 
 for...else
 while else
 装饰器
 
+Docker
 
+树莓派
+http://www.ruanyifeng.com/blog/2017/06/raspberry-pi-tutorial.html
