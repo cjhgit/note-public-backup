@@ -55,6 +55,11 @@ http://note.chenjianhang.com/
 
 负载均衡
 
+Notepad++
+
+[百度软件下载](http://rj.baidu.com/soft/detail/13478.html?ald)
+
+
 * sublime text
 
 操作系统
