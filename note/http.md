@@ -84,3 +84,9 @@ open www.baidu.com 80
 # TODO
 
 * HTTP 2.0
+
+
+
+
+
+Access-Control-Allow-Origin

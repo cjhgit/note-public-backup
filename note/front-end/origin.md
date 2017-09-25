@@ -84,3 +84,23 @@ ie8+ IE里可以使用XDomainRequest这个来实现CORS
 
 header('Access-Control-Allow-Origin: 好像能只能指定单个域名
 
+
+
+
+
+
+
+## Cookie 跨域
+
+服务端：
+
+```
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+```
+
+浏览器端：
+
+
+在跨域的情况下使用 axios，首先需要配置 axios 的 withCredentials 属性为 true。
+
