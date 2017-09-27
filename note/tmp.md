@@ -1,3 +1,20 @@
+npm WARN deprecated gulp-minify-css@1.2.4: Please use gulp-clean-css
+npm WARN deprecated express@2.5.11: express 2.x series is deprecated
+npm WARN deprecated connect@1.9.2: connect 1.x series is deprecated
+npm WARN deprecated minimatch@2.0.10: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated graceful-fs@1.2.3: graceful-fs v3.0.0 and before will fail on node releases >= v7.0. Please update to graceful-fs@^4.0.0 as soon as possible. Use 'npm ls graceful-fs' to find it in the tree.
+npm WARN deprecated node-uuid@1.4.8: Use uuid module instead
+npm WARN deprecated lodash@1.0.2: lodash@<3.0.0 is no longer maintained. Upgrade to lodash@^4.0.0.
+npm WARN prefer global node-gyp@3.6.2 should be installed with -g
+
+
+
+
+安装node版本管理工具之NVM
+
+
+
 [ScreenToGif](http://www.screentogif.com)
 [百度云盘](http://pan.baidu.com/s/17Ey78?utm_source=www.appinn.com)
 
