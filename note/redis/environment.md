@@ -1,3 +1,10 @@
+# 环境搭建
+
+## Windows
+
+## Cent OS
+
+## tmp
 
 wget http://download.redis.io/releases/redis-3.2.0.tar.gz
 

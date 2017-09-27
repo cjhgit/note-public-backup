@@ -1,6 +1,6 @@
 # 环境搭建
 
-## 过程
+## Windows
 
 ### 下载JDK
 
@@ -29,8 +29,14 @@
 打开 Cmd，输入 `java -version`，显示出版本信息，则说明安装配置成功。
 
 ```
-java -version
+$ java -version
 java version "1.8.0_144"
 Java(TM) SE Runtime Environment (build 1.8.0_144-b01)
 Java HotSpot(TM) 64-Bit Server VM (build 25.144-b01, mixed mode)
+```
+
+## Cent OS
+
+```
+yum -y install java-1.8.0-openjdk*
 ```

@@ -1,7 +1,7 @@
 # TODO
 
+* 下载 VMware虚拟机
 * Apache 取消自启动
-* 持续集成、敏捷开发、软件工程
 * 语法糖（Syntactic sugar）
 * DSL
 * Python range

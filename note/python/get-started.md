@@ -1,7 +1,6 @@
 # 开始
 
-
-Python 3.6.2 + 
+Python 3.6.2
 
 ## 环境搭建（Windows）
 
@@ -23,8 +22,7 @@ Python 3.6.2
 ```
 
 遇到的问题：电脑上安装多个 Python，命令行执行 `python` 后显示的不是当前安装版本的信息
-解决：everything 搜索 python.exe，把其他 python 安装目录删了。
-
+解决：everything 搜索 python.exe，把其他 python 安装目录删了（可能会造成其他问题）。
 
 ## IDE
 
@@ -35,7 +33,6 @@ Python 3.6.2
 不喜欢折腾的也可以用文本编辑器什么的。
 
 ## Hello World
-
 
 新建一个文件夹，作为项目根目录，新建 `hello.py`：
 
