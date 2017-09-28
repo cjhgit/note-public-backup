@@ -1,5 +1,21 @@
 https://github.com/creationix/nvm
 
+热门科技话题：
+
+* 虚拟现实产品代表的VR
+* 智能终端形成了物联网
+* 人脸识别
+* 曲面手机
+* 无人驾驶汽车
+* 智能手表等穿戴设备
+* 机器人学习
+* 无人机
+
+新闻：
+
+* 迪拜将建“火星城区”为星际移民做准备
+
+小娜
 
 
 npm WARN deprecated gulp-minify-css@1.2.4: Please use gulp-clean-css
@@ -19,8 +35,7 @@ npm WARN prefer global node-gyp@3.6.2 should be installed with -g
 
 
 
-[ScreenToGif](http://www.screentogif.com)
-[百度云盘](http://pan.baidu.com/s/17Ey78?utm_source=www.appinn.com)
+
 
 MVC
 

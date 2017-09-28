@@ -1,7 +1,6 @@
 # TODO
 
 * 下载 VMware虚拟机
-* Apache 取消自启动
 * 语法糖（Syntactic sugar）
 * DSL
 * Python range
@@ -22,15 +21,13 @@
 * 离线应用 manifest
 * 惰性函数
 * jekyll
-* 区块链
-* 比特币
 * 安装谷歌浏览器
-
-for...else
-while else
-装饰器
-
-Docker
-
-树莓派
-http://www.ruanyifeng.com/blog/2017/06/raspberry-pi-tutorial.html
+* 庞氏骗局
+* for...else
+* while else
+* 装饰器
+* Docker
+* 3D 建模
+* 电脑、手机配置
+* 极客（Geek）
+* ARM
