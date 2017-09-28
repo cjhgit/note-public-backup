@@ -35,7 +35,7 @@ apt-get install 的用法
 
 apt-get remove的用法
 
-
+apt-get update
 
 
 

@@ -156,17 +156,6 @@ swapoff /swapfile # 首先停止swap分区
 rm -rf /swapfile # 删除swap分区文件
 
 
-## FTP
-yum install -y vsftpd 
-vi /etc/vsftpd/vsftpd.conf
-/etc/vsftpd.user_list
-
-service name: vsftpd
-
-
-## SSH
-
-service sshd start
 
 
 ps -ef|grep mysqld

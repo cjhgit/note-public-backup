@@ -40,3 +40,6 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.144-b01, mixed mode)
 ```
 yum -y install java-1.8.0-openjdk*
 ```
+
+## Ubuntu
+
