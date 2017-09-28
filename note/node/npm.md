@@ -95,3 +95,38 @@ Hit CTRL-C to stop the server
 ## 参考
 
 * [NPM 官网](https://www.npmjs.com/)
+
+
+
+
+
+
+
+
+
+## tmp
+
+
+npm cache clean
++
+如果有安装 cnpm，还需要清除 cnpm 的缓存：
++
+
+cnpm cache clean -force
+
+
+
+C:\Users\hang\AppData\Roaming\npm-cache
+
+
+http fetch GET 200 https://registry.npm.taobao.org/core-js/download/core-js-2.5.1.tgz 722ms
+...
+http fetch GET 200 ...
+
+npm info lifecycle abbrev@1.1.0~preinstall: abbrev@1.1.0
+
+
+npm info linkStuff gulp-base64@0.1.3
+
+## NPM 工作原理
+
