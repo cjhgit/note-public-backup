@@ -1,5 +1,6 @@
 # 环境
 
+## Windows
 
 ## Linux下的MySQL安装
  

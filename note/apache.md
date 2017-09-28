@@ -1,3 +1,10 @@
+# Apache
+
+## 安装（Windows）
+
+## 安装（Linux）
+
+## tmp
 
 apache的默认发布目录是：/var/www/html，默认的发布文件是那个目录地下的index.html.
  
