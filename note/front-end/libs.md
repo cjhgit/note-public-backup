@@ -1,5 +1,12 @@
 
 
+
+
+轮播
+
+* swiper：http://www.swiper.com.cn/
+
+
 ## web前端
 
 HTML + css + javascript + Jquery
