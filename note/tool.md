@@ -1,9 +1,0 @@
-
-
-
-
-
-
-
-
-ScreenToGif (windows)
