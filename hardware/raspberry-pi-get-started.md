@@ -7,7 +7,7 @@
 * 联网的笔记本电脑
 * 树莓派 3B
 * Micro SD 卡
-* 
+* 网线
 
 下载 [NOOBS](https://www.raspberrypi.org/downloads/noobs/)。进入后，选择左边的，下载，得到 `NOOBS_v2_4_4.zip`。
 
@@ -27,6 +27,13 @@ arp -a
 
 # tmp
 
+E:\desktop>ssh pi 192.168.191.1
+ssh: Could not resolve hostname pi: no address associated with name
+
+ssh pi@192.168.191.1
+
+E:\desktop>ssh pi@192.168.191.1
+ssh: connect to host 192.168.191.1 port 22: Bad file number
 
 E:\desktop>ssh -l pi 192.168.191.1
 ssh: connect to host 192.168.191.1 port 22: Bad file number
@@ -61,8 +68,10 @@ http://pan.baidu.com/s/1eSmnU4i
 进入系统后绿灯闪烁是读取
 
 
-> Raspbian安装方式有两种，一种是用NOOBS方式安装，还有一种就是把官方的img烧录到Micro SD卡里，前者简单，跟着指引一步一步安装即可，后者相当于Ghost镜像，烧录到SD卡后就等于还原一个已经安装好的系统，只需要配置一下即可运行！
-第一种方式，如果你的Micro SD本身就是FAT32那么就不用格式化，只要把NOOBS解压到根目录即可，如果不是，就要格式化，烧录就更不用说了，只是无需你自己格式化……
+> Raspbian安装方式有两种，一种是用NOOBS方式安装，还有一种就是把官方的img烧录到Micro SD卡里，前者简单，跟着指引一步一步安装即可，
+后者相当于Ghost镜像，烧录到SD卡后就等于还原一个已经安装好的系统，只需要配置一下即可运行！
+第一种方式，如果你的Micro SD本身就是FAT32那么就不用格式化，只要把NOOBS解压到根目录即可，如果不是，就要格式化，
+烧录就更不用说了，只是无需你自己格式化……
 
 > 网上找SDFormatter 工具，用这个格式化。树莓派官网上有下载。。。
   因为会把16G分区，分成几个Linux区，windows 只识别五十M的FAT32分区，所以只有50M。。

@@ -47,9 +47,7 @@ Zero 系列，Zero 系列有两款，分别是 Zero 和 Zero W
 > 看镜像版本，2016-11-25版本开始默认关闭，解决方法是在boot分区里创建一个名为'ssh'的文件。参考：Happiness is a form of courage。
 
 
-HIFI
 
-室内定位
 
 温度传感器
 
