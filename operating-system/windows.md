@@ -23,3 +23,9 @@ netstat -ano
 
 [ScreenToGif](http://www.screentogif.com)
 [百度云盘](http://pan.baidu.com/s/17Ey78?utm_source=www.appinn.com)
+
+问题：无法调亮度（设置没了，快捷键不起作用了）
+
+解决：
+
+打开【设备管理器】，监视器-通用即插即用监视器，没有激活。。。启用后就行了。

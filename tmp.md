@@ -1,19 +1,19 @@
+
+[首页](/all.md)
+
 # TODO
 
-* 读书笔记
-* 专注20小时  
-* 一万小时定律
+* blockly
+* localForage
+* 阅读源码
+* 贴吧
 * 下载 VMware虚拟机
 * 语法糖（Syntactic sugar）
 * DSL
 * Python range
-* 刻意练习
 * 图灵完备
 * Source map
 * BNF 范示
-* 字符串
-* TypedArray
-* javascript Strong Mode
 * java rx
 * 离散数学
 * markdown + wiki
@@ -21,14 +21,16 @@
 * 值类型、引用类型
 * 离线应用 manifest
 * 惰性函数
-* jekyll
 * 安装谷歌浏览器
-* 庞氏骗局
 * for...else
 * while else
 * 装饰器
 * Docker
 * 3D 建模
+
+其实我从苹果天线门事件时候就想不通，金属外壳的话，直接拿外壳当天线不就得了
+
+小米远程文件管理（ftp）
 
 Cardboard
 
@@ -44,11 +46,8 @@ Cardboard
 
 sudo apt-get install package=version=version
 
-
 apt-get update
 apt-get install openjdk-7-jdk
-
-2017诺贝尔奖
 
 Comet：基于 HTTP 长连接的“服务器推”技术
 
@@ -106,12 +105,7 @@ https://github.com/creationix/nvm
 * 机器人学习
 * 无人机
 
-新闻：
-
-* 迪拜将建“火星城区”为星际移民做准备
-
 小娜
-
 
 npm WARN deprecated gulp-minify-css@1.2.4: Please use gulp-clean-css
 npm WARN deprecated express@2.5.11: express 2.x series is deprecated
@@ -139,26 +133,14 @@ leancloud
 
 > 或是用Rabbit Mq和Celery来做异步队列，可以改善同步执行耗时较久的任务给用户带来的不爽感
 
-影响力
+
 
 电子身份标识，简称eID，是以密码技术为基础、以智能安全芯片为载体的网络身份标识，能够在不泄露身份信息的前提下在线远程识别身份。
 
 项目管理
 
-个人知识管理工具
 
-* [TIOBE 排行榜](https://www.tiobe.com/tiobe-index/)：编程语言的热度排行榜。
 
-1. Java
-2. C
-3. C++
-4. C#
-5. Python
-6. PHP
-7. JavaScript
-8. Vsual Basic .NET
-9. Purl
-10. Ruby
 
 
 
