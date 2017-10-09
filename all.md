@@ -63,8 +63,3 @@
 产品
 
 * Axure
-
-能力：
-
-* [英语](/english.md)
-* [阅读](/reading/tmp.md)
