@@ -22,17 +22,8 @@ GTD（Get Things Done）
 
 ## 工具
 
-forest
-
-种子习惯
-
-
-
-
-
-
-
-
+* forest
+* 种子习惯
 
 
 

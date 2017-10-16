@@ -2,6 +2,15 @@
 
 * [mzabriskie/axios](https://github.com/mzabriskie/axios)
 
+* Parallax
+* TheaterJS
+* leaflet-echarts-master
+* canvax-master
+* uploader-master
+* leaflet-pip-v2-master
+* threejs-earth-master
+* Vue.Draggable-case-master
+* JasonAmbition-master
 
 * V8 编译器
 

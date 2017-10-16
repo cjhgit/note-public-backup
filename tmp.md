@@ -3,10 +3,10 @@
 
 # TODO
 
+* matlab
 * blockly
 * localForage
 * 阅读源码
-* 贴吧
 * 下载 VMware虚拟机
 * 语法糖（Syntactic sugar）
 * DSL
@@ -32,19 +32,20 @@
 
 > 其实我从苹果天线门事件时候就想不通，金属外壳的话，直接拿外壳当天线不就得了
 
+句子迷
+
 其次，在睡觉前大量用脑，会让你的脑袋又紧张又疲劳，会影响你的睡眠质量。
 
-财务
+脱口秀：
 
-理财
+* 晓松奇谈
+* 奇葩说
 
-刻板印象
+中水系统
+
+自闭症
 
 （大雾）
-
-生活小窍门
-
-重酬
 
 * 知乎维权骑士
 * 版权印
@@ -114,17 +115,6 @@ vue 多页面应用
 
 https://github.com/creationix/nvm
 
-热门科技话题：
-
-* 虚拟现实产品代表的VR
-* 智能终端形成了物联网
-* 人脸识别
-* 曲面手机
-* 无人驾驶汽车
-* 智能手表等穿戴设备
-* 机器人学习
-* 无人机
-
 小娜
 
 npm WARN deprecated gulp-minify-css@1.2.4: Please use gulp-clean-css
@@ -153,26 +143,12 @@ leancloud
 
 > 或是用Rabbit Mq和Celery来做异步队列，可以改善同步执行耗时较久的任务给用户带来的不爽感
 
-
-
-电子身份标识，简称eID，是以密码技术为基础、以智能安全芯片为载体的网络身份标识，能够在不泄露身份信息的前提下在线远程识别身份。
-
 项目管理
-
-
-
-
-
 
 翻墙：
 
 * [蓝灯（Lantern）](https://github.com/getlantern/forum)
 * SS（Shadowsocks）
-
-
-Chrome 即将原生支持 Dart 做前端脚本
-
-Scheme 编程语言是一种Lisp方言，诞生于1975年，由 MIT 的 Gerald J. Sussman 和 Guy L. Steele Jr. 完成。它是现代两大Lisp方言之一；另一个方言是Common Lisp。
 
 flash fish
 http://www.cnblogs.com/liruihua/p/5957393.html
