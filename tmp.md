@@ -170,3 +170,8 @@ http://www.cnblogs.com/liruihua/p/5957393.html
 走出舒适区
 
 《梦的解析》（德语：Die Traumdeutung 英文：The Interpretation of Dreams），是奥地利心理学家西格蒙得·弗洛伊德创作的心理学理论著作，又译做《解梦》。
+
+小兔笔记
+https://github.com/TooNote/TooNote
+
+程序员思维

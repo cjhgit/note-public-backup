@@ -30,6 +30,7 @@ Clippings：Kindle“我的剪贴”管理神器
 
 * 网易公开课
 * 可汗学院
+    * https://open.163.com/khan/
 * TED
 * 纪录片
 
