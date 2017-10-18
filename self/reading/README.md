@@ -45,10 +45,12 @@ Clippings：Kindle“我的剪贴”管理神器
 格式：
 
 * pdf
-* epud
+* epub
     * Android：多看阅读
-    * PC：book bazaar reader（应用商店）、Adobe Digital Editions
-    * http://www.neat-reader.cn
+    * PC：
+        * book bazaar reader（应用商店）：丑。
+        * Adobe Digital Editions：复制功能经常失效，导致无法复制。
+    * http://www.neat-reader.cn：有时打不开，过于依赖网络。
 
 电子书管理软件
     * calibre
