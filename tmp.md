@@ -175,3 +175,7 @@ http://www.cnblogs.com/liruihua/p/5957393.html
 https://github.com/TooNote/TooNote
 
 程序员思维
+
+站在巨人的肩膀上
+
+https://www.apple.com/cn/iphone-x/

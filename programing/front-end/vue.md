@@ -18,6 +18,29 @@ import './sass/main.scss'
 
 
 
+
+公司流程
+
+
+vue init webpack lcadmin-front-vue
+
+disturl=https://npm.taobao.org/dist
+sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
+phantomjs_cdnurl=https://npm.taobao.org/mirrors/phantomjs/
+chromedriver_cdnurl=http://cdn.npm.taobao.org/dist/chromedriver
+
+'indent': 0,
+        //"indent": [1, 4, { "SwitchCase": 1 }],
+
+
+
+<link rel="stylesheet" href="/static/css/normalize.css">
+<link rel="stylesheet" href="/static/css/reset.css">
+<link rel="stylesheet" href="/static/font/iconfont.css">
+
+main.css
+
+
 ## material design 框架调研
 
 ### 纯 JS
