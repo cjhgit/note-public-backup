@@ -130,7 +130,13 @@ paper.js-develop
 * threejs-earth-master
 * Vue.Draggable-case-master
 * JasonAmbition-master
-
+* viewer-master
+* ssite-master
+* sliptree-bootstrap-tokenfield-9c06df4
+* WebCraft-master
+* Simple-Overlay-master
+* WebCraft-master
+* zenpen-master
 * V8 编译器
 
 application/x-www-form-urlencoded：窗体数据被编码为名称/值对。这是标准的编码格式。这是默认的方式
@@ -146,3 +152,16 @@ https://github.com/fengyuanchen/distpicker
 仿淘宝地区选择
 https://github.com/tshi0912/city-picker
 
+## 前端优化
+
+图片压缩
+https://tinypng.com/
+
+tinypng API + gulp
+
+epub.js
+
+https://github.com/futurepress/epub.js
+
+node.js epub reader
+https://github.com/julien-c/epub

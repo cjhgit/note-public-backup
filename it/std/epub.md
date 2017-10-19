@@ -53,4 +53,7 @@ epub 是一种开标准，开放标准及意味着，这种格式会被越来越
 
 * https://github.com/InfiniteLibrary/infinite-electron
 * https://github.com/flying-sheep/electro-pub
-* 
+
+* http://readium.org/
+  
+  http://www.cnblogs.com/diligenceday/p/5185716.html
