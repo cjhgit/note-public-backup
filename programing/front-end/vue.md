@@ -15,33 +15,44 @@ import './sass/main.scss'
 
 
 
+## 使用 Vue 创建项目流程
 
+```
+vue init webpack project-name
+```
 
+创建 `.npmrc`：
 
-
-公司流程
-
-
-vue init webpack lcadmin-front-vue
-
+```
 disturl=https://npm.taobao.org/dist
 sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
 phantomjs_cdnurl=https://npm.taobao.org/mirrors/phantomjs/
 chromedriver_cdnurl=http://cdn.npm.taobao.org/dist/chromedriver
+```
 
+修改 `.eslintrc.js`：
+
+```
 'indent': 0,
-        //"indent": [1, 4, { "SwitchCase": 1 }],
+// "indent": [1, 4, { "SwitchCase": 1 }],
+```
 
+`index.html` normalize：
 
-
+```
 <link rel="stylesheet" href="/static/css/normalize.css">
 <link rel="stylesheet" href="/static/css/reset.css">
 <link rel="stylesheet" href="/static/font/iconfont.css">
+```
 
 main.css
 
 
 ## material design 框架调研
+
+## 框架的选择
+
+
 
 ### 纯 JS
 

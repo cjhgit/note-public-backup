@@ -165,3 +165,8 @@ https://github.com/futurepress/epub.js
 
 node.js epub reader
 https://github.com/julien-c/epub
+
+## HTML5 拍照上传
+
+
+

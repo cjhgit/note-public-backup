@@ -36,3 +36,6 @@ Blockly
 logo
 
 编程猫
+
+https://scratch.mit.edu/projects/editor/?tip_bar=getStarted
+https://llk.github.io/scratch-gui/
