@@ -19,10 +19,17 @@ gulp.task('img-min', function () {
 
 没有即使更新
 
+静态资源 hash 解决方案 1：
 
-"gulp-rev": "^8.0.0",
-    "gulp-rev-collector": "^1.2.2",
+gulp-rev
+gulp-rev-collector
+gulp-rev-format
+
+
+静态资源 hash 解决方案 2：
+
 gulp-cachebust
+
 
 
 "babel-eslint": "^7.2.3",
@@ -68,9 +75,7 @@ IMG
 
 
 "gulp-base64": "^0.1.3",
-"gulp-cachebust": "0.0.6",
 "gulp-plumber": "^1.0.1",
 "gulp-postcss": "^7.0.0",
-"gulp-sync": "^0.1.4",
 
 "i18next-parser": "^0.12.0"
