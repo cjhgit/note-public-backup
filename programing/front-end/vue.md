@@ -12,7 +12,13 @@ cnpm install sass-loader --save-dev
 import './sass/main.scss'
 
 
+解决Error: ENOENT: no such file or directory, scandir 'D:\IdeaWork\code-front-jet\node_modules\.npminstall\node-sass\3.7.0\node-sass\vendor'
 
+解决方案是执行以下方法：
+
+```
+npm rebuild node-sass
+```
 
 
 ## 使用 Vue 创建项目流程
@@ -34,7 +40,7 @@ chromedriver_cdnurl=http://cdn.npm.taobao.org/dist/chromedriver
 
 ```
 'indent': 0,
-// "indent": [1, 4, { "SwitchCase": 1 }],
+// 'indent': [1, 4, {"SwitchCase": 1}]
 ```
 
 `index.html` normalize：
@@ -46,6 +52,11 @@ chromedriver_cdnurl=http://cdn.npm.taobao.org/dist/chromedriver
 ```
 
 main.css
+
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+```
 
 
 ## material design 框架调研

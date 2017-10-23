@@ -40,3 +40,7 @@ Apache采用的协议，与BSD类似，同样鼓励代码共享和尊重原作�
 ## 相关文章推荐
 
 [常用开源许可协议介绍](http://down.chinaz.com/server/201105/552_1.htm)
+
+https://opensource.org/licenses/mit-license.php
+
+公有领域（public domain）

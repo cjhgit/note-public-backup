@@ -15,3 +15,7 @@ http://apps.who.int/gho/data/view.main.22600REG?lang=en
 
 食品安全
 http://www.who.int/mediacentre/factsheets/fs399/zh/
+
+前十位死亡原因
+http://www.who.int/mediacentre/factsheets/fs310/zh/index1.html
+
