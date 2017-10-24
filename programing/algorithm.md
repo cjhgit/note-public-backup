@@ -81,3 +81,6 @@ console.log(f('122333444455555')) // 5
 TODO
 
 * 算法导论
+
+算法可视化
+http://zh.visualgo.net/en/sorting

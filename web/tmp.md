@@ -29,3 +29,5 @@ hybrid app
 
 * Cordova（PhoneGap）
 * Ionic
+
+Cordova: core of PhoneGap

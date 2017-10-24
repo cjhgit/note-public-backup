@@ -10,3 +10,21 @@ SQLServer自动在主键上创建聚集索引，在UNIQUE约束列上创建非�
 * wordpress 时间
 * 电脑上显示的时间是国际时间？
 * 我们现在用的时间是北京时间吗？
+
+
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cource /root/luminiaq_net.sql' at line 1
+
+
+
+
+MySql5.6操作时报错：You must SET PASSWORD before executing this statement解决
+mysql>  SET PASSWORD = PASSWORD('123456');
+Query OK, 0 rows affected (0.03 sec)
+
+
+2017-02-09 23:38:14 10673 [ERROR] InnoDB: Cannot allocate memory for the buffer pool
+2017-02-09 23:38:14 10673 [ERROR] Plugin 'InnoDB' init function returned error.
+2017-02-09 23:38:14 10673 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2017-02-09 23:38:14 10673 [ERROR] Unknown/unsupported storage engine: InnoDB
+2017-02-09 23:38:14 10673 [ERROR] Aborting

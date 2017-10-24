@@ -10,6 +10,11 @@
 
 * Intellij Idea 2017.1.3
 
+IDEA 破解
+http://idea.iteblog.com/key.php
+http://jetbrains.tencent.click
+http://idea.qinxi1992.cn
+
 
 
 

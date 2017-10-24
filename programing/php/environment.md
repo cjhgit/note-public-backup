@@ -210,3 +210,14 @@ php配置已经完成，你可以到Apache的默认发布目录/var/www/html下�
 ## cpmposer installation
 
 composer -V
+
+
+
+
+
+检测Apache是否支持mod_rewrite
+通过php提供的phpinfo()函数查看环境配置，通过Ctrl+F查找到“Loaded Modules”，其中列出了所有apache2handler已经开启的模块，如果里面包括“mod_rewrite”，则已经支持，不再需要继续设置。 如果没有开启“mod_rewrite”，则打开目录 您的apache安装目录“/apache/conf/” 下的 httpd.conf 文件，通过Ctrl+F查找到“LoadModule rewrite_module”，将前面的”#”号删除即可。
+如果没有查找到，则到“LoadModule” 区域，在最后一行加入“LoadModule rewrite_module modules/mod_rewrite.so”（必选独占一行），然后重启apache服务器即可。 让apache服务器支持.htaccess
+AllowOverride None改为Options FollowSymLinks
+AllowOverride All
+
