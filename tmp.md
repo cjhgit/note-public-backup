@@ -247,7 +247,7 @@ server {
 
 重启指令：./nginx  -s  reload  
 
-
+/usr/sbin/nginx -s reload
 
 ---------------配置文件目录：/etc/nginx/conf.d/default.conf-----------------
 
@@ -269,3 +269,53 @@ ISO的封闭与安卓开放
 电商如何运营
 
 自媒体如何运营
+
+
+迦南
+vi /etc/nginx/conf.d/default.conf
+
+
+==========================================nginx配置===================================/etc/nginx/
+https://router.vuejs.org/zh-cn/essentials/history-mode.html----location  /  {
+    try_files  $uri  $uri/  /index.html;
+}
+
+
+
+设计图有色差
+
+
+
+
+Access-Control-Allow-Credentials  true
+
+
+
+
+table-cell垂直居中
+缺点;影响position:a
+
+.cell {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  width: 240px;
+  height: 180px;
+  border:1px solid #666;
+  }
+
+
+ display: table-cell;
+            width: 1%;
+            能实现水平居中？
+
+
+
+网页字体调研
+
+楷体能在上面系统的什么浏览器上面显示
+
+
+https://segmentfault.com/a/1190000006110417
+
+字体子集

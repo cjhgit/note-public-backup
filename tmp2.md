@@ -30,85 +30,17 @@ http://www.mamicode.com/info-detail-1992580.html
 首页交互
 https://www.tencent.com/zh-cn/index.html
 
-## 阿里云 RDC
+## vi 编辑器
+
+复制
 
 
-
-canalifecare.com
-
-### RDC 环境配置
-
-下载路径：/root/deploy/jianan-front/package.tgz
-解压目录：/usr/local/nginx-app/
-
-Stop：echo "stop"
-
-start：/root/deploy/jianan-front/deploy.sh
-执行用户：root
-
-注意要在机器上新建    target目录？
+VI中的多行删除与复制
+法一：
+单行删除，：1（待删除行）d
+多行删除 ，：1,10d
+法二：
+光标所在行，dd
+光标所在行以下的N行，Nd
 
 
-Access-Control-Allow-Credentials  true
-
-
-## 前端项目构建步骤.txt
-
-运行命令
-npm  install
-npm  run  build
-输出物路径
-target/
-
-目标机器
-120.24.226.112
-部署路径
-/root/deploy/coolkeke-front
-部署命令
-/root/deploy/coolkeke-front/deploy.sh---------------------对应E://coolkeke项目中deploy.sh-front
-
-==========================================nginx配置===================================/etc/nginx/
-https://router.vuejs.org/zh-cn/essentials/history-mode.html----location  /  {
-    try_files  $uri  $uri/  /index.html;
-}
-
-
-项目流水线：
-
-开始->构建->日常->预发->正式
-
-流转到下一阶段配置：都不选
-
-流水线名称：zktw-front
-监听设置：自动触发
-master 分支
-
-构建：
-
-任务名称：构建
-代码库地址：superxiao1992/zktw-front.git
-分支名称：master
-
-日常：
-
-任务名称：日常部署
-包标签：default
-应用：zktw-front
-环境：日常环境
-
-预发：
-
-任务名称：预发部署
-包标签：default
-应用：zktw-front
-环境：预发环境
-
-正式：
-
-任务名称：正式部署
-包标签：default
-应用：zktw-front
-环境：正式环境
-
-
-设计图有色差
