@@ -168,5 +168,39 @@ https://github.com/julien-c/epub
 
 ## HTML5 拍照上传
 
+## Web Intents
 
+> 我觉得Web intents相当于标准版的ifttt，不过ifttt的关注点相对于Web intents还有所不同
+
+> 混聚（Mashup）是一种基于Web Services、资源元数据规范等技术的网络应用开发技术，它可以将不同站点或应用程序的数据、资源、API加以混聚来构建新的业务流程，满足新的用户需求。混聚的思想最早启迪于艺术领域，现已作为一种网络应用开发模式为世人所熟知。
+
+Web Intents是个相对较新的类似于RPC的机制，可以实现Web应用间的通信，这是通过在客户端（通常但不限于是网页）与服务（如网页、扩展API、插件、OS处理器等，知道如何处理与加工各自的数据）之间传递数据并返回结果来实现的。整个过程是由User Agent（通常是浏览器）来处理的，它让用户决定由哪个服务来执行与Intent相关的动作。Web Intents类似于Android Intents，最初是由Google在去年提出的，现已被W3C接受为草案文档，并希望包含在HTML.Next中
+
+<intent    action="http://webintents.org/share"    type="image/>
+
+var intent = new Intent(      "http://webintents.org/share",      "image/",      "http://example.com/image.png"  ); window.navigator.startActivity(intent);
+
+http://www.infoq.com/cn/news/2012/05/Web-Intents
+
+## 国际化
+
+jQuery国际化插件依据RFC 4646和RFC 5646标准里定义的语言标记来识别文化，语言标记通常由连字符将多个辅标签组合而成，比如
+
+## notification std.
+https://www.html5rocks.com/en/tutorials/notifications/quick/
+
+## extensions
+
+文档
+https://developer.chrome.com/extensions/api_index
+http://open.chrome.360.cn/extension_dev/themes.html
+https://chajian.baidu.com/developer/extensions/api_index.html
+
+如何模拟扩展唯一的ID
+http://blog.csdn.net/talking12391239/article/details/44996033
+
+讲解插件文章
+http://blog.mn886.net/chenjianhua/show/3f02d7463ede/index.html
+
+ChromeTheme–在线制作个性Chrome主题
 

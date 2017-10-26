@@ -64,3 +64,9 @@ XML 元素指的是从（且包括）开始标签直到（且包括）结束标�
 ## 结尾
 
 这篇文章只是简单地介绍 XML 相关的入门知识。
+
+## tmp
+
+XML Schema 是基于 XML 的 DTD 替代者。
+XML Schema 可描述 XML 文档的结构。
+XML Schema 语言也可作为 XSD（XML Schema Definition）来引用。
