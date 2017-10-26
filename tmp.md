@@ -294,7 +294,8 @@ Access-Control-Allow-Credentials  true
 
 table-cell垂直居中
 缺点;影响position:a
-
+float 也会影响
+margin-right 不起作用
 .cell {
   display: table-cell;
   vertical-align: middle;
