@@ -165,3 +165,7 @@ ctx.fillText('Hello world', 0, 32)
 ```
 
 ![](http://www.chenjianhang.com/wp-content/uploads/2017/08/canvas-hello-font.png)
+
+
+粒子
+http://www.cnblogs.com/axes/p/3606566.html

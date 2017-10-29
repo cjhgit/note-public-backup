@@ -180,3 +180,18 @@ Git 还有很多功能，这里不再讲述。当你需要其他的功能时，�
 * [Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
 * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
 * [git - 简易指南](http://www.bootcss.com/p/git-guide/)
+
+
+配图不错
+http://www.cnblogs.com/kidsitcn/p/5329163.html
+
+http://blog.a0z.me/2014/05/21/GitBeginning/
+
+一、Git的主要功能：版本控制
+二、概览
+三、Git for Windows软件安装
+四、本地Git的使用
+五、Github与Git的关联
+六、团队合作开发
+七、Github的其他介绍
+八、一些可能碰到的问题
